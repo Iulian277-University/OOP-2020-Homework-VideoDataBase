@@ -1,0 +1,5 @@
+
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ
+m
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¥ñÜÕøÿÿÿÿ
